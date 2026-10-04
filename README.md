@@ -1,17 +1,15 @@
 # Hostel Management System
 
-A new Flutter project.
+This repository serves as the central workspace for the Hostel Management System project.
 
-## Getting Started
+## Project Structure
 
-This project is a starting point for a Flutter application.
+- **`/frontend`**: Contains the client-side code (mobile app, web, etc.).
+- **`/backend`**: Contains the server-side code (APIs, services, etc.).
+- **`/design`**: Contains the project design, documentation, and presentations.
 
-A few resources to get you started if this is your first Flutter project:
+## Contribution Guidelines
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository.
+2. Add your work to the respective `frontend/` or `backend/` folder.
+3. Commit your changes and open a pull request.
