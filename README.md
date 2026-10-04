@@ -1,4 +1,4 @@
-# hostel_management_system
+# Hostel Management System
 
 A new Flutter project.
 
